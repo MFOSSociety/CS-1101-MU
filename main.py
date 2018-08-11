@@ -1,8 +1,7 @@
-
-
-
-
-
+# Author : @0x48piraj
+# Number System Conversion
+# Binary --> Decimal
+# Octal --> Decimal
 
 def binary2decimal(binary):
   i=str(binary)
