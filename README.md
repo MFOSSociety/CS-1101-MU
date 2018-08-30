@@ -4,7 +4,7 @@
 
 > Fun Repository during completing **Introductory Programming in C Course (CS 1101)** at Manipal University, Jaipur.
 
-**NOTE :  THIS REPOSITORY IS INTENDED JUST FOR REFERENCE, PLEASE DON'T COPY THE EXACT SOLUTION. IT WILL ONLY HARM YOU.**
+**DISCLAIMER :  THIS REPOSITORY IS INTENDED JUST FOR REFERENCE, PLEASE DON'T COPY THE EXACT SOLUTION. IT WILL ONLY HARM YOU.**
 *(Unless you are a **mark-o-phobic**)*
 
 > **mark-o-phobic** : A person who says "marks are everything" 
@@ -12,6 +12,7 @@
 *(Origin of this word : inside Piyush Raj's brain)*
 
 
+**NOTE : ALL THE SOURCE CODE IS COMPATIBLE WITH GCC. ONLY SUBMIT CODE WHICH ARE CORRECTLY INTERPRETED WITH GCC. MITIGATIONS ARE ALSO WELCOMED.**
 
 ---
 ## Let's get started!
@@ -19,9 +20,6 @@
 * Inter Number System Conversion
 
 > It was made by me when our professor was giving [binary, octal] conversion after conversion.
-
-
-
 
 
 ## Want to Contribute?
@@ -49,18 +47,26 @@
 
 ### Code Structure :
 
-```
-Author   : 
-Synopsis :
-Usage    :
-
-~code~
-~!@#$%^&*~ //add comments where neccessary
-~code~
+#### Example :
 
 ```
+/*
+Author      : Piyush Raj
+Synopsis    : Prints "Hello, world!"
+How2Compile : gcc helloworld.c -o helloworld.out
+Usage       : ./helloworld.out
+gcc version : 5.4.0
+*/
 
-*See the codebase to get more insight about the template.*
+#include  <stdio.h>
+
+void main()
+{
+    printf("Hello, world!\n"); // Prints Hello, world!
+}
+```
+
+*See the code-base to get more insight about the template.*
 
 
 **Join the development**
@@ -77,3 +83,4 @@ Usage    :
 **This project is currently licensed under the [MIT](LICENSE).**
 
 > To obtain the software under a different license, Please contact **[Piyush Raj](mailto:contact@0xpiraj.co)**.
+
