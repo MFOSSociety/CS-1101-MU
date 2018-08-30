@@ -17,3 +17,21 @@
 * Inter Number System Conversion
 
 > It was made by me when our professor was giving [binary, octal] conversion after conversion.
+
+
+
+
+
+## Want to Contribute?
+
+> You're most welcome!
+
+### Contributions Best Practices :
+
+
+## License
+
+**This project is currently licensed under the [MIT](LICENSE).**
+
+> To obtain the software under a different license, Please contact **[Piyush Raj](mailto:contact@0xpiraj.co)**.
+
