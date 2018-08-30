@@ -28,6 +28,14 @@
 
 `/coursework/helloworld.c`
 
+> Simply prints "Hello, world!"
+
+* Find Days in a Month
+
+`/coursework/days_in_month.c`
+
+> Prints days in a month by taking month number.
+
 ## Want to Contribute?
 
 > You're most welcome!
