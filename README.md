@@ -52,6 +52,7 @@
 ```
 Author   : 
 Synopsis :
+Usage    :
 
 ~code~
 ~!@#$%^&*~ //add comments where neccessary
