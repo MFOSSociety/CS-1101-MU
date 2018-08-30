@@ -30,15 +30,37 @@
 
 ### Contributions Best Practices :
 
+**Issues**
+
+* Open issues in [issue tracker](https://github.com/0x48piraj/CS-1101-MU/issues) of the program which you want to add.
+
+**Pull Requests**
+
+* In your Pull Requests, always reference the [issue](https://github.com/0x48piraj/CS-1101-MU/issues) you're solving and provide details.
 
 **Commits**
 
-* Write clear meaningful git commit messages (Do read https://chris.beams.io/posts/git-commit/)
-* Make sure your PR's description contains GitHub's special keyword references that automatically close the related issue when the PR is merged. (More info at https://github.com/blog/1506-closing-issues-via-pull-requests )
+* Write clear meaningful git commit messages *(Avoid profanity.)*
 
 **Feature Requests and Bug Reports**
 
 * When you file a feature request or when you are submitting a bug report to the [issue tracker](https://github.com/0x48piraj/CS-1101-MU/issues), make sure you add steps to reproduce it. Especially if that bug is some weird/rare one.
+
+
+### Code Structure :
+
+```
+Author   : 
+Synopsis :
+
+~code~
+~!@#$%^&*~ //add comments where neccessary
+~code~
+
+```
+
+*See the codebase to get more insight about the template.*
+
 
 **Join the development**
 
