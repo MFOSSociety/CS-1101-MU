@@ -17,10 +17,16 @@
 ---
 ## Let's get started!
 
+
 * Inter Number System Conversion
+
+`/extras/fun/ns_converter.py`
 
 > It was made by me when our professor was giving [binary, octal] conversion after conversion.
 
+* Hello, World!
+
+`/coursework/helloworld.c`
 
 ## Want to Contribute?
 
