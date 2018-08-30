@@ -40,7 +40,11 @@
 
 **Join the development**
 
-* Before you join development, please clone up the project on your local machine, run the codes and go through the repository completely. Run any program you can find and see where it leads to. Explore. (Don't worry ... Nothing will happen to the app or to you due to the exploring :wink: Only thing that will happen is, you'll be more familiar with what is where and might even get some cool ideas on how to improve various aspects of the program.)
+* Before you join development, please clone up the project on your local machine, run the codes and go through the repository completely. Run any program you can find and see where it leads to. Explore. 
+
+
+> *(Don't worry ... Nothing will happen to the app or to you due to the exploring :wink: Only thing that will happen is, you'll be more familiar with what is where and might even get some cool ideas on how to improve various aspects of the program.)*
+
 * If you would like to work on an issue, drop in a comment at the issue. If it is already assigned to someone, but there is no sign of any work being done, please feel free to drop in a comment so that the issue can be assigned to you if the previous assignee has dropped it entirely.
 
 ## License
