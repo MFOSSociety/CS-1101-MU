@@ -77,4 +77,3 @@ Usage    :
 **This project is currently licensed under the [MIT](LICENSE).**
 
 > To obtain the software under a different license, Please contact **[Piyush Raj](mailto:contact@0xpiraj.co)**.
-
