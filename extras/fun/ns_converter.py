@@ -23,3 +23,11 @@ def octal2decimal(oct):
    f=f+int(e)*(8**n)
    n=n-1
   print(f)
+  
+  def decimal2binary(decimal):
+       f = []
+       while decimal > 0:
+           f.append(str(decimal%2))
+           decimal = int(decimal/2)
+       print(''.join(f[::-1])) 
+
