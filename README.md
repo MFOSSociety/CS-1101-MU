@@ -36,6 +36,10 @@
 
 > Prints days in a month by taking month number.
 
+`/extras/fun/gui_python.py`
+
+> GUI Demo in Python
+
 ## Want to Contribute?
 
 > You're most welcome!
