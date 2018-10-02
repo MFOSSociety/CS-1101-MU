@@ -8,7 +8,8 @@ gcc version : 5.4.0
 
 #include  <stdio.h>
 
-void main()
+int main()
 {
     printf("Hello, world!\n");
+	return 0;
 }
